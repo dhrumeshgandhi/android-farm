@@ -15,8 +15,8 @@ This project contains a chart that bootstraps an OpenSTF deployment on a [Kubern
 - Kubernetes cluster with KVM-capable nodes for emulators
 - [helm](https://helm.sh)
 - [rethinkdb installation](https://github.com/kubernetes/charts/tree/master/stable/rethinkdb)
-- [adb-butler](https://github.com/agoda-com/adb-butler) image
-- [docker-emulator-android](https://github.com/agoda-com/docker-emulator-android) images
+- [adb-butler](https://github.com/dhrumeshgandhi/adb-butler) image
+- [docker-emulator-android](https://github.com/dhrumeshgandhi/docker-emulator-android) images
 
 ## Installing the Chart
 
